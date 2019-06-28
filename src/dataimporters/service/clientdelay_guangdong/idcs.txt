@@ -1,0 +1,4 @@
+GZAF-IDC-01,广州奥飞机房
+GZPY-IDC-01,广州番禺机房
+SZWS-IDC-01,深圳网宿机房
+FAKE-IDC,FAKE
